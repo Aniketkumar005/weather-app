@@ -8,16 +8,20 @@ A simple weather forecasting web application that fetches real-time weather data
 ---
 
 ## 📌 Features  
-✅ **Search for any city** to get real-time weather updates  
-✅ Displays **temperature, humidity, wind speed, and weather conditions**  
-✅ **Dynamic background color** changes based on weather conditions  
-✅ **Weather icons** update according to the forecast  
-✅ **Responsive design** for mobile and desktop users  
+✅ **Search for any city** to get real-time weather updates.  
+
+✅ Displays **temperature, humidity, wind speed, and weather conditions**. 
+
+✅ **Dynamic background color** changes based on weather conditions. 
+
+✅ **Weather icons** update according to the forecast. 
+
+✅ **Responsive design** for mobile and desktop users. 
 
 ---
 
 ## 🛠️ Technologies Used  
-- **HTML5** - Structure of the app  
+- **HTML5** - Structure of the app
 - **CSS3** - Styling and responsiveness  
 - **JavaScript (ES6+)** - Fetch API and DOM manipulation  
 - **Bootstrap** - Styling framework  
