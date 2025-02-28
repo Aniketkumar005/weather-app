@@ -3,7 +3,7 @@
 A simple weather forecasting web application that fetches real-time weather data using the **OpenWeatherMap API**. Users can search for a city and get detailed weather information such as **temperature, humidity, wind speed, and weather conditions**.  
 
 ## 🚀 Live Demo  
-👉 **[Check it out here](https://weather-forecast-ani.netlify.app/)**  
+👉 **[Live Weather App](https://weather-forecast-ani.netlify.app/)**  
 
 ---
 
